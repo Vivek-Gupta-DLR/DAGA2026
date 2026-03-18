@@ -9,13 +9,16 @@ This project presents a multi-physics analysis of electromagnetic noise and vibr
 
 ## 📊 Results
 
-### Spectrogram
+### Spectrogram_Simulated_Result
 ![Spectrogram_Simulation](images/Spectrogram_Simulated.png)
+
+### Spectrogram_Experimental_Result
+![Spectrogram](images/Spectrogram_Simulated.png)
 
 ### Modal Comparison
 ![Modal_Simulation](images/Modal_Analysis_Simulated.png)
 
-### Flux Density
+### Radial Flux Density
 ![Radial Flux Desnity Simulation](images/FluxDensity_Simulated.png)
 
 ## 📄 Documents
